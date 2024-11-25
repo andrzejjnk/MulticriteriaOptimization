@@ -1,1 +1,1 @@
-# OptymalizacjaWielokryterialna
+# Multicriteria Optimization
