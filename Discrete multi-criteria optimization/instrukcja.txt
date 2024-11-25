@@ -1,0 +1,6 @@
+Instrukcja jak uruchomić aplikację:
+
+1. Pobranie plików z kodem oraz otworzenie w edytorze kodu / IDE.
+2. Instalacja potrzebnych bibliotek Python, za pomocą komendy: pip install -r requirements.txt
+3. Uruchomienie aplikacji w terminalu za pomocą komendy: streamlit run app.py Aplikacja otworzy się w oknie przeglądarki.
+4. Gotowe, miłych eksperymentów!
